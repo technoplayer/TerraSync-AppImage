@@ -1,0 +1,4 @@
+AppDir/
+*.AppImage
+*.deb
+tnas
